@@ -41,10 +41,8 @@ export const Skills = () => {
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
                         <p> Skilled in Full-Stack development including technologies like <i color="#C70039">HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, EXPRESS.JS, MONGO DB, PYTHON</i>
-                        . I’m not a designer but I have a good sense of aesthetics, and
-                         experience in responsive, mobile-first web design. I put special
-                         effort into optimizing my code and providing the best user
-                         experience. 
+                      
+                    
            </p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                            <div className="item">
